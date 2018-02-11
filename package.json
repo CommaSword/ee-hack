@@ -1,7 +1,7 @@
 {
-  "name": "typescript-boilerplate",
+  "name": "ee-hack",
   "version": "0.0.1",
-  "description": "Generic project boilerplate for TypeScript",
+  "description": "Hackers server for empty epsilon",
   "author": "Amir Arad (amira@wix.com)",
   "license": "MIT",
   "bugs": {
